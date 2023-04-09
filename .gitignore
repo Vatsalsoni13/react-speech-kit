@@ -3,5 +3,4 @@ coverage
 .DS_Store
 /node_modules
 yarn-error.log
-package-locj.json
-yarn.lock
+package-lock.json
